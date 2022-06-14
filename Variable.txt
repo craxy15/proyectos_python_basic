@@ -1,0 +1,8 @@
+   Que es una variable?¿
+
+Una variable es una 'caja' o lugar donde puedo guardar objetos:
+numeros,texto,etc.
+
+El identificador de mi variable no puede comenzar con un numero y debe 
+esta en minusculas. Las palabras dentro del mismo se separan con
+guion bajo.
